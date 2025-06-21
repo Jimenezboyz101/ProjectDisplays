@@ -1,0 +1,2 @@
+This folder contains a machine learning project I did in which I made a classification model that determines if someone is likely to default on a loan. Included in the code is multiple checkpoints that show the
+current state of the dataset, as well as showing performance of the model at the end
