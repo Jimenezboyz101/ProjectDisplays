@@ -1,0 +1,1 @@
+This folder contains a example ensemble machine learning models using randomforest and adaboost. Included is the necessary code to make it run as well as the dataset, and a confusion matrix of the final predictions.
