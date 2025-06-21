@@ -1,8 +1,8 @@
-This repository showcases a variety of data science and analytics projects that I’ve worked on, featuring examples of machine learning models, interactive maps, visualizations, and exploratory data analysis.
+This repository showcases a variety of data science and analytics projects that I’ve worked on, featuring examples of machine learning models, visualizations, and exploratory data analysis.
 
 Throughout these projects, I’ve applied tools such as Python, pandas, NumPy, scikit-learn, and GIS platforms to uncover insights and communicate results effectively. Many of the projects include detailed visual components like maps, graphs, and charts to help translate complex data into accessible stories.
 
-## 📊 What's Included
+## What's Included
 - Machine learning prediction models
 - Interactive and static maps for spatial analysis
 - Graphs and data visualizations highlighting key patterns
