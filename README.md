@@ -9,4 +9,4 @@ Throughout these projects, I’ve applied tools such as Python, pandas, NumPy, s
 - Exploratory data analysis workflows
 - Real-world inspired case studies
 
-#Feel free to explore the individual folders to learn more about each project. I hope these examples provide a useful snapshot of my technical skills and problem-solving approach.
+Feel free to explore the individual folders to learn more about each project. I hope these examples provide a useful snapshot of my technical skills and problem-solving approach.
