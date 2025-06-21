@@ -1,0 +1,1 @@
+This folder contains an example neural network project I made. There are 4 neural network models shown in the code, each one increasing in complexity and accuracy from A-D. Included is a chart made from the validation and training accuracies of each one of the models.
